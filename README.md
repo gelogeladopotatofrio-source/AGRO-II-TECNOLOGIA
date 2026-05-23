@@ -111,6 +111,6 @@ Creme Papel   #f9f7f2   ████  Fundo claro da página
 
 Desenvolvido com 🌿 para o **Projeto Agrinho**
 
-*Conciliando tradição do campo com tecnologia e preservação.*
+*Obeserve com atenção, segredos no ar. Conciliando tradição do campo com tecnologia e preservação.*
 
 </div>
