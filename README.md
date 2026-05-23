@@ -87,7 +87,7 @@ agrinho-sustentabilidade/
 
 ## 📚 Fontes & Referências
 
-- [Imagens]
+- [Imagens Unsplash]
 - [Embrapa Meio Ambiente]
 - [Cepea/USP]
 - Dados: IBGE · CNA Brasil · Ministério da Agricultura · FGV
