@@ -1,4 +1,4 @@
-## FOLHA VIRTUAL ROBÔ
+## 🍂 FOLHA VIRTUAL ROBÔ 🍂
 <div align="center">
 
 > *"O agro brasileiro alimenta o mundo enquanto preserva mais de 60% de sua vegetação nativa."*
