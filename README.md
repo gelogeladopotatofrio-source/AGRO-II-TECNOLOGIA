@@ -36,17 +36,21 @@ O projeto foi construído com design inspirado em **revistas de alto padrão** �
 - Menu flutuante acessível com `aria-label`, `aria-expanded` e `aria-pressed`
 
 ### 🌱 Jogo — Plante sua Árvore
-Clicker interativo desenhado inteiramente em **SVG puro**, com 4 fases progressivas:
+Clicker interativo desenhado inteiramente em **SVG**, com 4 fases progressivas:
 
 | Fase | Ação | Cliques |
 |------|------|---------|
 | 🌰 Semente | Plantar no solo | 2 |
 | 🌱 Broto | Regar | 50 |
-| 🪴 Muda | Adubar | 50 |
+| 🍁 Muda | Adubar | 50 |
 | 🌳 Árvore | Crescer | 100 |
 
 Cada fase inclui partículas animadas, barra de progresso, mensagem de conclusão e linha do tempo visual.
 
+### 🕵️ Jogo Secreto 🕵️
+
+ Feito ainda por **SVG**, mas precisa descobrir como achar esse jogo tentando interagir mais.
+ 
 ### 📱 Responsividade Total
 
 | Dispositivo | Breakpoint | Adaptações |
