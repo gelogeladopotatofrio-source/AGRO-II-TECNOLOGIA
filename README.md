@@ -118,11 +118,17 @@ agrinho-sustentabilidade/
 
 ## 📚 Fontes & Referências
 
-- [Imagens Unsplash]
-- [Embrapa Meio Ambiente]
-- [Cepea/USP]
-- Dados: IBGE · CNA Brasil · Ministério da Agricultura · FGV
+-Imagens Unsplash
 
+-Embrapa
+
+-Cepea/USP
+
+-IDR-Paraná
+
+-IBGE
+
+-FAEP Agrinho
 ---
 
 ## 🎨 Paleta de Cores
