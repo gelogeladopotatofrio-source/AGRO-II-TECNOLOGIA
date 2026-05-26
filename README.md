@@ -31,6 +31,7 @@ O projeto foi construído com design inspirado em **revistas de alto padrão** �
 - Navegação rápida por âncoras:  `🌲 Paraná `. `📖 LER` · `🌱 JOGO` · `🔍  SABER MAIS`
 
 ### ♿ Acessibilidade
+- **Texto Grande** — coloca a textualização em letras maiores para ler.
 - **Modo Escuro** — alterna toda a paleta com transição suave; preferência salva no `localStorage`
 - **Leitura em Voz Alta** — narra o conteúdo em português via Web Speech API; destaca o parágrafo atual e exibe barra de progresso
 - Menu flutuante acessível com `aria-label`, `aria-expanded` e `aria-pressed`
@@ -132,7 +133,8 @@ agrinho-sustentabilidade/
 ---
 
 ## 🎨 Paleta de Cores
-
+##        &
+## 🎨 Desenhos em SVG
 ```
 Verde Nobre   #1a3c34   ████  Fundo do hero e cards
 Verde Médio   #2F4F4F   ████  Títulos e destaques
