@@ -28,7 +28,7 @@ O projeto foi construído com design inspirado em **revistas de alto padrão** �
 - Tipografia premium com **Playfair Display** (serifada) e **Lato** (sans-serif)
 - Paleta de cores: verde nobre `#1a3c34`, dourado `#c5a059` e creme `#f9f7f2`
 - Animações suaves de entrada com **Scroll Reveal** (IntersectionObserver)
-- Navegação rápida por âncoras: `📖 Ler` · `🌱 Jogo` · `🔗 Fontes`
+- Navegação rápida por âncoras:  `🌲 Paraná `. `📖 LER` · `🌱 JOGO` · `🔍  SABER MAIS`
 
 ### ♿ Acessibilidade
 - **Modo Escuro** — alterna toda a paleta com transição suave; preferência salva no `localStorage`
@@ -45,6 +45,32 @@ Clicker interativo desenhado inteiramente em **SVG**, com 4 fases progressivas:
 | 🍁 Muda | Adubar | 50 |
 | 🌳 Árvore | Crescer | 100 |
 
+### 🌍 Jogo 2 — O Destino do Planeta
+
+> *Cada escolha tem consequências. O futuro é seu.*
+
+```
+              MELHORAR PLANETA (+100 pts)
+                       │
+          ┌────────────┴────────────┐
+          ▼                         ▼
+   [0 – 499 pts]              [500 – 999 pts]
+   Planeta Neutro              Planeta Florescendo
+   Continentes normais         Verde exuberante 🌿
+          │                         │
+          ▼                         ▼
+   [500 pts piorar]           [1000 pts melhorar]
+   Planeta Poluído            🏆 VITÓRIA — Planeta Vivo
+   Prédios + fumaça           Florestas e esperança
+          │
+          ▼
+   [1000 pts piorar]
+   💀 DERROTA — Planeta Morto
+   Desertos e cinzas
+```
+
+**5 estados visuais do planeta SVG:**
+`Neutro` → `Verde` → `Poluído` → `Morto` → `Misto`
 Cada fase inclui partículas animadas, barra de progresso, mensagem de conclusão e linha do tempo visual.
 
 ### 🕵️ Jogo Secreto 🕵️
