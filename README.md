@@ -42,9 +42,9 @@ Clicker interativo desenhado inteiramente em **SVG**, com 4 fases progressivas:
 | Fase | Ação | Cliques |
 |------|------|---------|
 | 🌰 Semente | Plantar no solo | 2 |
-| 🌱 Broto | Regar | 50 |
+| 🌱 Broto | Regar | 25 |
 | 🍁 Muda | Adubar | 50 |
-| 🌳 Árvore | Crescer | 100 |
+| 🌳 Árvore | Crescer | 75 |
 
 ### 🌍 Jogo 2 — O Destino do Planeta
 
