@@ -1,5 +1,7 @@
-<div align="center">
 ##                                    🍂 FOLHA VIRTUAL ROBÔ 🍂
+
+<div align="center">
+
 # 🌿 Espírito Natural Robótico
 ### Projeto Agrinho 2026 — Sustentabilidade no Agronegócio Brasileiro
 
